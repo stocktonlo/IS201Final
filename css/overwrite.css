@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bold !important;
+}
+.nineteen {
+    font-size: 19px !important;
+    font-weight: bold !important;
+}
+.italicize {
+    font-style: italic !important;
+    font-size: 15px !important;
+}
+.italicizesmaller {
+    font-style: italic !important;
+    font-size: 12px !important;
+}
